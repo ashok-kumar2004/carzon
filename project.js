@@ -87,7 +87,7 @@ herocontent.setAttribute('id','heroContent');
 
 const herostyle={
     // backend image 
-    background:"url(./limecar.jpg)",
+    background:"url(./we.jpg)",
     backgroundRepeat:"no-repeat" ,
     backgroundSize:"cover",
     backgroundPosition: 'center',
